@@ -1,0 +1,6 @@
+From = "username<email>"
+To = ["<recipient>"]
+Username = "<username>"
+Password = "<password>"
+Server = "smtp.gmail.com" 
+Port = 587
